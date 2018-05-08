@@ -1,0 +1,37 @@
+{
+  "name": "firebase-auth-app",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jest-expo": "26.0.0",
+    "react-test-renderer": "16.3.0-alpha.1"
+  },
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "expo": "^26.0.0",
+    "firebase": "^4.13.0",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "react": "16.3.0-alpha.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
+    "react-native-elements": "^0.19.1",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-redux-listener": "^0.3.0",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-size-matters": "^0.1.0",
+    "react-native-vector-icons": "^4.6.0",
+    "react-native-youtube": "^1.1.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "rnpm": "^1.9.0"
+  }
+}
