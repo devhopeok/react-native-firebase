@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		036831A36B6E44CDAEB17545 /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9FC3A7CC27614FBFA226C203 /* Feather.ttf */; };
 		055970FBB9E84724BC9C8B8C /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B9431FE67134E208ADEBFDD /* Ionicons.ttf */; };
